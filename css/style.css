@@ -2,7 +2,7 @@ body {
     background: green;
 }
 
-h2 {
+h2:hover {
     color: red
 }
 
@@ -16,4 +16,28 @@ h2 {
 
 .title {
     color: white
+}
+
+li:first-child {
+    color: red
+}
+
+li:last-child {
+    color: blue
+}
+
+li:nth-child(2) {
+    color: gray
+}
+
+li:only-child {
+    color: purple
+}
+
+#google-link:link {
+    color: white
+}
+
+#google-link:visited {
+    color: red
 }
