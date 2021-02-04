@@ -2,6 +2,18 @@ body {
     background: green;
 }
 
+h2 {
+    color: red
+}
+
+.subtitle {
+    color: blue
+}
+
+#services {
+    color: grey;
+}
+
 .title {
     color: white
 }
