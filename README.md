@@ -5,3 +5,4 @@
 3. what are selectors - element, class, ID
 4. element, class, ID and inline style importance in html
 5. pseudoselectors hover link visited, first/last/nth child
+6. advance pseudoselectors, + ~ >  
