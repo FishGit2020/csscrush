@@ -6,7 +6,7 @@ h2:hover {
     color: red
 }
 
-.subtitle {
+h2[class=subtitle] {
     color: blue
 }
 
@@ -57,4 +57,20 @@ ul > li {
 
 ul li {
     color:green
+}
+
+img[src^="../img/"] {
+    display: flex;
+    height: 150px;
+    border: 10px solid black
+}
+
+img[src*="human"] {
+    display: flex;
+    height: 200px;
+    border: 10px solid blue
+}
+
+img:hover {
+    border: 10px solid red
 }
