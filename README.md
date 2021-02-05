@@ -7,3 +7,4 @@
 5. pseudoselectors hover link visited, first/last/nth child
 6. advance pseudoselectors, '+' '~' '>' ' '
 7. attribute selectors
+8. properties: color, background, positions, height, width ...
