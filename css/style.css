@@ -69,6 +69,7 @@ img[src*="human"] {
     display: flex;
     height: 200px;
     border: 10px solid blue;
+    transition: 0.5s;
 }
 
 img:hover {
