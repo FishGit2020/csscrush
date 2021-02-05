@@ -3,11 +3,11 @@ body {
 }
 
 h2:hover {
-    color: red
+    color: red;
 }
 
 h2[class=subtitle] {
-    color: blue
+    color: blue;
 }
 
 #services {
@@ -15,23 +15,23 @@ h2[class=subtitle] {
 }
 
 .title {
-    color: white
+    color: white;
 }
 
 li:first-child {
-    color: red
+    color: red;
 }
 
 li:last-child {
-    color: blue
+    color: blue;
 }
 
 li:nth-child(2) {
-    color: gray
+    color: gray;
 }
 
 li:only-child {
-    color: purple
+    color: purple;
 }
 
 
@@ -44,33 +44,34 @@ li:only-child {
 } */
 
 h2 + a {
-    color: blue
+    color: blue;
 }
 
 textarea ~ button {
-    color: red
+    color: red;
 }
 
 ul > li {
-    color: aliceblue
+    color: aliceblue;
 }
 
 ul li {
-    color:green
+    color:green;
 }
 
 img[src^="../img/"] {
     display: flex;
     height: 150px;
-    border: 10px solid black
+    border: 10px solid black;
 }
 
 img[src*="human"] {
     display: flex;
     height: 200px;
-    border: 10px solid blue
+    border: 10px solid blue;
 }
 
 img:hover {
-    border: 10px solid red
+    border: 10px solid red;
+    transition: 0.5s;
 }
