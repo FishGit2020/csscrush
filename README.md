@@ -12,3 +12,4 @@
 10. background color
 11. background image
 12. more background properties
+13. alpha/transparency value for color (rgba())
