@@ -9,3 +9,4 @@
 7. attribute selectors
 8. properties: color, background, positions, height, width ...
 9. color
+10. backgroud color
