@@ -11,3 +11,4 @@
 9. color
 10. background color
 11. background image
+12. more background properties
